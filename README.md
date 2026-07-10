@@ -59,8 +59,8 @@ ollama pull nomic-embed-text # Modelo de embeddings (para indexar os PDFs)
 
 Clona o repositório (ou copia os ficheiros para a tua pasta):
 
- git clone https://github.com/teu-user/teu-repo.git
- cd teu-repo
+ git clone https://github.com/rsilva1977/chatbot-ollama-local-rag.git
+ cd chatbot-ollama-local-rag
 
 
 
